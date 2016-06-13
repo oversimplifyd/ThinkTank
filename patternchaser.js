@@ -1,3 +1,7 @@
+/**
+	This function finds and returns the longest, most occuring substring in a multibyte string.
+**/
+
 function patternChaser(str){
 
             //If string is less than 4 return No Pattern
